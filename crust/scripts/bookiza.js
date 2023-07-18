@@ -206,7 +206,7 @@
 		}
 	}
 
-	const mouseEvents = [ 'mousemove', 'mouseover', 'mousedown', 'mouseup', 'mouseout', 'click', 'dblclick', 'wheel' ]
+	const mouseEvents = [ 'mousemove', 'mouseover', 'mousedown', 'mouseup', 'mouseout', 'click', 'dblclick'] // , 'wheel'
 
 	const touchEvents = [ 'touchstart', 'touchend', 'touchmove' ]
 
